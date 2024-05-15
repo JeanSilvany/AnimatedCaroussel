@@ -1,4 +1,4 @@
-## Preview
+## Preview:
 
 https://github.com/JeanSilvany/AnimatedCaroussel/assets/73763375/95535e03-d685-44e2-bcbc-54f89f1e9c54
 
